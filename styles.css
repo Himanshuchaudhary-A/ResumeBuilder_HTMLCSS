@@ -333,6 +333,9 @@ h4{
   padding-right:10px;
   padding: 0 155px 0 155px;
 }
+.address ul li a:hover,a:visited{
+     color:blue;
+}
 .links a:hover{
   color:antiquewhite;
 }
